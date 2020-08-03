@@ -29,5 +29,5 @@ function partsSums(ls) {
 
  }
    
-   return res.reverse()
+   return res.reverse() 
 }
